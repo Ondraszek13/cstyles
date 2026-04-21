@@ -4,7 +4,8 @@
     <title>Christian Theological Academy in Warsaw</title>
     <title-short>Theology ChAT</title-short>
     <id>http://www.zotero.org/styles/christian-theological-academy-in-warsaw</id>
-    <link href="http://www.zotero.org/styles/chicago-notes" rel="self"/>
+    <link href="http://www.zotero.org/styles/christian-theological-academy-in-warsaw" rel="self"/>
+    <category citation-format="note"/>
     <link href="https://chat.edu.pl/app/uploads/2021/04/uchwala-nr-15-2021-rwt-chat-w-sprawie-przyjecia-regulaminu-wykonywania-i-oceniania-prac-dyplomowychw-wt-chat.pdf" rel="documentation"/>
     <author>
       <name>Aleksandra Okolowicz-Seweryn</name>
